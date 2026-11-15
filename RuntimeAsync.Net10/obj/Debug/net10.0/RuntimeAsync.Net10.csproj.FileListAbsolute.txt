@@ -1,0 +1,16 @@
+D:\Elmah.io\dotnet-runtime-async-two-projects\runtime-async-demo\RuntimeAsync.Net10\bin\Debug\net10.0\RuntimeAsync.Net10.exe
+D:\Elmah.io\dotnet-runtime-async-two-projects\runtime-async-demo\RuntimeAsync.Net10\bin\Debug\net10.0\RuntimeAsync.Net10.deps.json
+D:\Elmah.io\dotnet-runtime-async-two-projects\runtime-async-demo\RuntimeAsync.Net10\bin\Debug\net10.0\RuntimeAsync.Net10.runtimeconfig.json
+D:\Elmah.io\dotnet-runtime-async-two-projects\runtime-async-demo\RuntimeAsync.Net10\bin\Debug\net10.0\RuntimeAsync.Net10.dll
+D:\Elmah.io\dotnet-runtime-async-two-projects\runtime-async-demo\RuntimeAsync.Net10\bin\Debug\net10.0\RuntimeAsync.Net10.pdb
+D:\Elmah.io\dotnet-runtime-async-two-projects\runtime-async-demo\RuntimeAsync.Net10\obj\Debug\net10.0\RuntimeAsync.Net10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Elmah.io\dotnet-runtime-async-two-projects\runtime-async-demo\RuntimeAsync.Net10\obj\Debug\net10.0\RuntimeAsync.Net10.AssemblyInfoInputs.cache
+D:\Elmah.io\dotnet-runtime-async-two-projects\runtime-async-demo\RuntimeAsync.Net10\obj\Debug\net10.0\RuntimeAsync.Net10.AssemblyInfo.cs
+D:\Elmah.io\dotnet-runtime-async-two-projects\runtime-async-demo\RuntimeAsync.Net10\obj\Debug\net10.0\RuntimeAsync.Net10.csproj.CoreCompileInputs.cache
+D:\Elmah.io\dotnet-runtime-async-two-projects\runtime-async-demo\RuntimeAsync.Net10\obj\Debug\net10.0\RuntimeAsync.Net10.dll
+D:\Elmah.io\dotnet-runtime-async-two-projects\runtime-async-demo\RuntimeAsync.Net10\obj\Debug\net10.0\refint\RuntimeAsync.Net10.dll
+D:\Elmah.io\dotnet-runtime-async-two-projects\runtime-async-demo\RuntimeAsync.Net10\obj\Debug\net10.0\RuntimeAsync.Net10.pdb
+D:\Elmah.io\dotnet-runtime-async-two-projects\runtime-async-demo\RuntimeAsync.Net10\obj\Debug\net10.0\RuntimeAsync.Net10.genruntimeconfig.cache
+D:\Elmah.io\dotnet-runtime-async-two-projects\runtime-async-demo\RuntimeAsync.Net10\obj\Debug\net10.0\ref\RuntimeAsync.Net10.dll
+D:\Elmah.io\dotnet-runtime-async-two-projects\runtime-async-demo\RuntimeAsync.Net10\bin\Debug\net10.0\RuntimeAsync.Net10.runtimeconfig.dev.json
+D:\Elmah.io\dotnet-runtime-async-two-projects\runtime-async-demo\RuntimeAsync.Net10\obj\Debug\net10.0\RuntimeA.E8D126BD.Up2Date

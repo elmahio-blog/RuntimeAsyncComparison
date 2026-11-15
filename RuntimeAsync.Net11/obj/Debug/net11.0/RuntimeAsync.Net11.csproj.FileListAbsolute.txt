@@ -1,0 +1,16 @@
+D:\Elmah.io\dotnet-runtime-async-two-projects\runtime-async-demo\RuntimeAsync.Net11\bin\Debug\net11.0\RuntimeAsync.Net11.exe
+D:\Elmah.io\dotnet-runtime-async-two-projects\runtime-async-demo\RuntimeAsync.Net11\bin\Debug\net11.0\RuntimeAsync.Net11.deps.json
+D:\Elmah.io\dotnet-runtime-async-two-projects\runtime-async-demo\RuntimeAsync.Net11\bin\Debug\net11.0\RuntimeAsync.Net11.runtimeconfig.json
+D:\Elmah.io\dotnet-runtime-async-two-projects\runtime-async-demo\RuntimeAsync.Net11\bin\Debug\net11.0\RuntimeAsync.Net11.runtimeconfig.dev.json
+D:\Elmah.io\dotnet-runtime-async-two-projects\runtime-async-demo\RuntimeAsync.Net11\bin\Debug\net11.0\RuntimeAsync.Net11.dll
+D:\Elmah.io\dotnet-runtime-async-two-projects\runtime-async-demo\RuntimeAsync.Net11\bin\Debug\net11.0\RuntimeAsync.Net11.pdb
+D:\Elmah.io\dotnet-runtime-async-two-projects\runtime-async-demo\RuntimeAsync.Net11\obj\Debug\net11.0\RuntimeAsync.Net11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Elmah.io\dotnet-runtime-async-two-projects\runtime-async-demo\RuntimeAsync.Net11\obj\Debug\net11.0\RuntimeAsync.Net11.AssemblyInfoInputs.cache
+D:\Elmah.io\dotnet-runtime-async-two-projects\runtime-async-demo\RuntimeAsync.Net11\obj\Debug\net11.0\RuntimeAsync.Net11.AssemblyInfo.cs
+D:\Elmah.io\dotnet-runtime-async-two-projects\runtime-async-demo\RuntimeAsync.Net11\obj\Debug\net11.0\RuntimeAsync.Net11.csproj.CoreCompileInputs.cache
+D:\Elmah.io\dotnet-runtime-async-two-projects\runtime-async-demo\RuntimeAsync.Net11\obj\Debug\net11.0\RuntimeAsync.Net11.dll
+D:\Elmah.io\dotnet-runtime-async-two-projects\runtime-async-demo\RuntimeAsync.Net11\obj\Debug\net11.0\refint\RuntimeAsync.Net11.dll
+D:\Elmah.io\dotnet-runtime-async-two-projects\runtime-async-demo\RuntimeAsync.Net11\obj\Debug\net11.0\RuntimeAsync.Net11.pdb
+D:\Elmah.io\dotnet-runtime-async-two-projects\runtime-async-demo\RuntimeAsync.Net11\obj\Debug\net11.0\RuntimeAsync.Net11.genruntimeconfig.cache
+D:\Elmah.io\dotnet-runtime-async-two-projects\runtime-async-demo\RuntimeAsync.Net11\obj\Debug\net11.0\ref\RuntimeAsync.Net11.dll
+D:\Elmah.io\dotnet-runtime-async-two-projects\runtime-async-demo\RuntimeAsync.Net11\obj\Debug\net11.0\RuntimeA.CBD026BD.Up2Date

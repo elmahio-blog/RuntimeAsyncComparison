@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v11.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v11.0": {
+      "RuntimeAsync.Net11/1.0.0": {
+        "runtime": {
+          "RuntimeAsync.Net11.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RuntimeAsync.Net11/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
